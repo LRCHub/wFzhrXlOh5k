@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "playlist",
+  "base_artist": "RiN",
+  "createdAt": "2026-03-10T23:22:06.379564Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Playlist",
+      "artist": "Mason & Julez",
+      "has_synced": true,
+      "path": "select/01_Playlist_Mason_&_Julez.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Playlist",
+      "artist": "Fraxiom",
+      "has_synced": false,
+      "path": "select/02_Playlist_Fraxiom.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Playlist",
+      "artist": "James TW",
+      "has_synced": true,
+      "path": "select/03_Playlist_James_TW.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vocal Trance Playlist",
+      "artist": "Wicca Phase Springs Eternal feat. Holy Mountain",
+      "has_synced": false,
+      "path": "select/04_Vocal_Trance_Playlist_Wicca_Phase_Springs_Eternal_feat._Holy_Mountain.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vocal Trance Playlist",
+      "artist": "Wicca Phase Springs Eternal",
+      "has_synced": false,
+      "path": "select/05_Vocal_Trance_Playlist_Wicca_Phase_Springs_Eternal.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Playlist",
+      "artist": "TAEYEON",
+      "has_synced": true,
+      "path": "select/06_Playlist_TAEYEON.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Playlist",
+      "artist": "TAEYEON",
+      "has_synced": true,
+      "path": "select/07_Playlist_TAEYEON.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Secret Playlist",
+      "artist": "ODD EYE CIRCLE",
+      "has_synced": false,
+      "path": "select/08_My_Secret_Playlist_ODD_EYE_CIRCLE.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Secret Playlist",
+      "artist": "LOOΠΔ / Odd Eye Circle",
+      "has_synced": true,
+      "path": "select/09_My_Secret_Playlist_LOOΠΔ___Odd_Eye_Circle.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Secret Playlist",
+      "artist": "ODD EYE CIRCLE",
+      "has_synced": true,
+      "path": "select/10_My_Secret_Playlist_ODD_EYE_CIRCLE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Playlist",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/11_Playlist_ITZY.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Orchids (Playlist Version)",
+      "artist": "glass beach",
+      "has_synced": false,
+      "path": "select/12_Orchids_(Playlist_Version)_glass_beach.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Room in Here (feat. The Game & Sonya Elise) [DJ Jazzy Jeff Playlist Remix]",
+      "artist": "Anderson .Paak",
+      "has_synced": false,
+      "path": "select/13_Room_in_Here_(feat._The_Game_&_Sonya_Elise)_[DJ_Jazzy_Jeff_Playlist_Remix]_Anderson_.Paak.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Playlist",
+      "artist": "DPR LIVE",
+      "has_synced": true,
+      "path": "select/14_Playlist_DPR_LIVE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Playlist",
+      "artist": "Ufo361 feat. Sonus030",
+      "has_synced": true,
+      "path": "select/15_Playlist_Ufo361_feat._Sonus030.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Playlist",
+      "artist": "Ufo361",
+      "has_synced": true,
+      "path": "select/16_Playlist_Ufo361.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Playlist",
+      "artist": "Gigolo Y La Exce feat. Juhn & Dímelo Flow",
+      "has_synced": true,
+      "path": "select/17_Playlist_Gigolo_Y_La_Exce_feat._Juhn_&_Dímelo_Flow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "playlist",
+      "artist": "RiN",
+      "has_synced": false,
+      "path": "select/pl_01_playlist_RiN.txt"
+    }
+  ]
+}
